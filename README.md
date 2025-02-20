@@ -6,7 +6,7 @@ Welcome to **InterviewSphere**, the revolutionary platform that brings interview
 
 ---
 
-### 🌐 **Features**
+<h2 align="center">🌐 **Features**</h2>
 
 - **📞 Video Calls** - Real-time, high-quality video calls for crisp interviews.
 - **🖥️ Screen Sharing** - Collaborate in real-time with effortless screen sharing.
@@ -20,7 +20,7 @@ Welcome to **InterviewSphere**, the revolutionary platform that brings interview
 
 ---
 
-### 🔧 **Tech Stack**
+<h2 align="center">🔧 **Tech Stack**</h2>
 
 This platform leverages the **best tools** available to ensure top-tier performance and scalability.
 
@@ -38,7 +38,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 🌟 **Platform Highlights**
+<h2 align="center">🌟 **Platform Highlights**</h2>
 
 - **🔴 Real-time Collaboration:** Collaborate with your interviewer or candidate in **real-time** while watching code being written, sharing screens, and leaving comments instantly.
 - **📅 Seamless Scheduling:** No more back-and-forth for availability – Schedule and confirm your meetings effortlessly.
@@ -46,7 +46,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 💡 **How to Get Started**
+<h2 align="center">💡 **How to Get Started**</h2>
 
 1. **Clone the repository**:
    ```bash
@@ -68,13 +68,13 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 📸 **Sneak Peek**
+<h2 align="center">📸 **Sneak Peek**</h2>
 
 ![Interview Meeting](https://media.giphy.com/media/XrM3JZf5KlYMO/giphy.gif)
 
 ---
 
-### ⚙️ **Customizable Features**
+<h2 align="center">⚙️ **Customizable Features**</h2>
 
 - **⚡ Video Call Reactions** - React to meeting moments with emoji reactions.
 - **🔍 Code Execution in Multiple Languages** - See changes live while coding, share with others, and improve collaboratively.
@@ -82,20 +82,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 🛠️ **Contribute**
-
-We welcome contributions! If you want to improve this project or add new features, feel free to fork the repository and create a pull request.
-
-Steps:
-1. Fork the repo
-2. Create a new feature branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new pull request
-
----
-
-### 📢 **Join Our Community!**
+<h2 align="center">📢 **Join Our Community!**</h2>
 
 - **🔗 GitHub:** [InterviewSphere Repo](https://github.com/yourusername/InterviewSphere)
 - **📣 Twitter:** [@InterviewSphere](https://twitter.com/InterviewSphere)
@@ -103,9 +90,9 @@ Steps:
 
 ---
 
-### 🎉 **Enjoy the Future of Interviews!**
+<h2 align="center">🎉 **Enjoy the Future of Interviews!**</h2>
 
-🕶️✨ Take your interview process to the next level with **Session**! Whether you're looking to hire or get hired, we've got you covered with all the tools you need to succeed. 
+🕶️✨ Take your interview process to the next level with **InterviewSphere**! Whether you're looking to hire or get hired, we've got you covered with all the tools you need to succeed. 
 
 ---
 

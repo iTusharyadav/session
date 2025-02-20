@@ -24,7 +24,7 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 ---
 
-## 🔧 **Tech Stack**
+## :wrench: Tech Stack
 
 This platform leverages the **best tools** available to ensure top-tier performance and scalability.
 
@@ -42,7 +42,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-## 🌟 **Platform Highlights**
+## :star2: Platform Highlights
 
 - **🔴 Real-time Collaboration:** Collaborate with your interviewer or candidate in **real-time** while watching code being written, sharing screens, and leaving comments instantly.
 - **📅 Seamless Scheduling:** No more back-and-forth for availability – Schedule and confirm your meetings effortlessly.
@@ -50,7 +50,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-## 💡 **How to Get Started**
+## :bulb: How to Get Started
 
 1. **Clone the repository**:
    ```bash
@@ -74,7 +74,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 
 
-## ⚙️ **Customizable Features**
+## :gear: Customizable Features
 
 - **⚡ Video Call Reactions** - React to meeting moments with emoji reactions.
 - **🔍 Code Execution in Multiple Languages** - See changes live while coding, share with others, and improve collaboratively.
@@ -95,7 +95,7 @@ Steps:
 
 ---
 
-## 📢 **Join Our Community!**
+## :loudspeaker: Join Our Community!
 
 - **🔗 GitHub:** [InterviewSphere Repo](https://github.com/yourusername/InterviewSphere)
 - **📣 Twitter:** [@InterviewSphere](https://twitter.com/InterviewSphere)
@@ -103,7 +103,7 @@ Steps:
 
 ---
 
-## 🎉 **Enjoy the Future of Interviews!**
+## :tada: Enjoy the Future of Interviews!
 
 🕶️✨ Take your interview process to the next level with **InterviewSphere**! Whether you're looking to hire or get hired, we've got you covered with all the tools you need to succeed. 
 

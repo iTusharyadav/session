@@ -1,12 +1,16 @@
-# 🚀 **InterviewSphere: The Future of Interviewing**
+<h1 align="center" style="margin-bottom: 0;">🚀 Session: The Future of Interviewing</h1>
 
-Welcome to **InterviewSphere**, the revolutionary platform that brings interviewers and candidates together with ease. Whether you're a recruiter or an attendee, **InterviewSphere** has all the tools to make your interview process seamless and interactive.
+Welcome to Session, the groundbreaking platform that makes it easy for interviewers and candidates to meet. Whether you're a recruiter or a guest, Session has everything to make your interviewing process smooth and engaging.
 
-⚡ Get started today and step into the **future of interviews** with cutting-edge features and a next-gen tech stack!
+⚡ Join today and enter the future of interviews with state-of-the-art features and a next-generation tech stack!
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNldXA4M3J0NjRqZHB2cTF4dW1yNmRkM3Bqb3YyOTR0aTVmcm95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkDfMPiEOe3kO6GdUb/giphy.gif" alt="Adventure GIF" width="400" style="margin-bottom: 20px;">
+</p>
 
 ---
 
-### 🌐 **Features**
+## :world_map: Features
 
 - **📞 Video Calls** - Real-time, high-quality video calls for crisp interviews.
 - **🖥️ Screen Sharing** - Collaborate in real-time with effortless screen sharing.
@@ -20,7 +24,7 @@ Welcome to **InterviewSphere**, the revolutionary platform that brings interview
 
 ---
 
-### 🔧 **Tech Stack**
+## 🔧 **Tech Stack**
 
 This platform leverages the **best tools** available to ensure top-tier performance and scalability.
 
@@ -38,7 +42,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 🌟 **Platform Highlights**
+## 🌟 **Platform Highlights**
 
 - **🔴 Real-time Collaboration:** Collaborate with your interviewer or candidate in **real-time** while watching code being written, sharing screens, and leaving comments instantly.
 - **📅 Seamless Scheduling:** No more back-and-forth for availability – Schedule and confirm your meetings effortlessly.
@@ -46,7 +50,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 💡 **How to Get Started**
+## 💡 **How to Get Started**
 
 1. **Clone the repository**:
    ```bash
@@ -68,13 +72,9 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 📸 **Sneak Peek**
 
-![Interview Meeting](https://media.giphy.com/media/XrM3JZf5KlYMO/giphy.gif)
 
----
-
-### ⚙️ **Customizable Features**
+## ⚙️ **Customizable Features**
 
 - **⚡ Video Call Reactions** - React to meeting moments with emoji reactions.
 - **🔍 Code Execution in Multiple Languages** - See changes live while coding, share with others, and improve collaboratively.
@@ -82,7 +82,7 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-### 🛠️ **Contribute**
+## 🛠️ **Contribute**
 
 We welcome contributions! If you want to improve this project or add new features, feel free to fork the repository and create a pull request.
 
@@ -95,7 +95,7 @@ Steps:
 
 ---
 
-### 📢 **Join Our Community!**
+## 📢 **Join Our Community!**
 
 - **🔗 GitHub:** [InterviewSphere Repo](https://github.com/yourusername/InterviewSphere)
 - **📣 Twitter:** [@InterviewSphere](https://twitter.com/InterviewSphere)
@@ -103,7 +103,7 @@ Steps:
 
 ---
 
-### 🎉 **Enjoy the Future of Interviews!**
+## 🎉 **Enjoy the Future of Interviews!**
 
 🕶️✨ Take your interview process to the next level with **InterviewSphere**! Whether you're looking to hire or get hired, we've got you covered with all the tools you need to succeed. 
 

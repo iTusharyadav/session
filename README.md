@@ -109,5 +109,6 @@ Steps:
 
 ---
 
-**Built with 💙 by [Your Name]**
-
+<p align="center">
+  Built with 💙
+</p>

@@ -5,7 +5,7 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 ⚡ Join today and enter the future of interviews with state-of-the-art features and a next-generation tech stack!
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNldXA4M3J0NjRqZHB2cTF4dW1yNmRkM3Bqb3YyOTR0aTVmcm95YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkDfMPiEOe3kO6GdUb/giphy.gif" alt="Adventure GIF" width="400" style="margin-bottom: 20px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0czE2cXlvazNlZzcxeHoweWxtMHJvbWc4N2Q1d3VoczlnMHExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Adventure GIF" width="400" style="margin-bottom: 20px;">
 </p>
 
 ---

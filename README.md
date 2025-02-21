@@ -28,10 +28,11 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 This platform leverages the **best tools** available to ensure top-tier performance and scalability.
 
-- ![Next.js Logo](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) & ![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) – For lightning-fast and scalable web apps.
-- ![Stream Logo](https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=stream&logoColor=white) – Real-time video and chat integration.
-- ![Clerk Logo](https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white) – Authentication & Authorization for secure sign-ins and role management.
-- ![Convex Logo](https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black) – Serverless backend infrastructure that’s fast, simple, and highly scalable.
+- ![Next.js Logo](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) & ![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+- ![Stream Logo](https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=stream&logoColor=white) 
+- ![Clerk Logo](https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white) 
+- ![Convex Logo](https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black)
+- ![Convex Logo](https://img.shields.io/badge/TailwindCSS-F6B900?style=flat&logo=convex&logoColor=black) 
 - **💻 TailwindCSS & Shadcn** – Customizable design system that’s both sleek and responsive.
 
 
@@ -84,14 +85,8 @@ This platform leverages the **best tools** available to ensure top-tier performa
 ## :loudspeaker: Join Our Community!
 
 - **🔗 GitHub:** [iTusharyadav](https://github.com/iTusharyadav)
-- **📣 Session:** [session](https://github.com/iTusharyadav/session.git)
-- **🌐 Know More:** [Check out](https://github.com/iTusharyadav/know-more.git)
-
----
-
-## :tada: Enjoy the Future of Interviews!
-
-🕶️✨ Take your interview process to the next level with **InterviewSphere**! Whether you're looking to hire or get hired, we've got you covered with all the tools you need to succeed. 
+- **📣 Session:** [Click Here](https://github.com/iTusharyadav/session.git)
+- **🌐 Know More:** [Click Here](https://github.com/iTusharyadav/know-more.git)
 
 ---
 

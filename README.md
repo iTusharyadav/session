@@ -46,6 +46,9 @@ This platform leverages the **best tools** available to ensure top-tier performa
 - **🔴 Real-time Collaboration:** Collaborate with your interviewer or candidate in **real-time** while watching code being written, sharing screens, and leaving comments instantly.
 - **📅 Seamless Scheduling:** No more back-and-forth for availability – Schedule and confirm your meetings effortlessly.
 - **⏱️ Dynamic and Static Routes**: Lightning-fast user navigation and page rendering with Next.js.
+- **⚡ Video Call Reactions** - React to meeting moments with emoji reactions.
+- **🔍 Code Execution in Multiple Languages** - See changes live while coding, share with others, and improve collaboratively.
+- **🗣️ Interview Questionnaire** - Interviewers can add, review, and ask questions directly from the platform.
 
 ---
 
@@ -73,13 +76,6 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 
 
-## :gear: Customizable Features
-
-- **⚡ Video Call Reactions** - React to meeting moments with emoji reactions.
-- **🔍 Code Execution in Multiple Languages** - See changes live while coding, share with others, and improve collaboratively.
-- **🗣️ Interview Questionnaire** - Interviewers can add, review, and ask questions directly from the platform.
-
----
 
 
 ## :loudspeaker: Join Our Community!

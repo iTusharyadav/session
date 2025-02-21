@@ -28,13 +28,7 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 This platform leverages the **best tools** available to ensure top-tier performance and scalability.
 
-- ![Next.js Logo](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) & ![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-- ![Stream Logo](https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=stream&logoColor=white) 
-- ![Clerk Logo](https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white) 
-- ![Convex Logo](https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black)
-- ![Convex Logo](https://img.shields.io/badge/TailwindCSS-F6B900?style=flat&logo=convex&logoColor=black) 
-- **💻 TailwindCSS & Shadcn** – Customizable design system that’s both sleek and responsive.
-
+![Next.js Logo](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript Logo](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Shadcn Logo](https://img.shields.io/badge/Shadcn-3178C6?style=flat&logo=shadcnui&logoColor=white) ![TailwindCSS Logo](https://img.shields.io/badge/TailwindCSS-3178C6?style=flat&logo=TailwindCSS&logoColor=white) ![Stream Logo](https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=getstream&logoColor=white) ![Clerk Logo](https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white) ![Convex Logo](https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black)
 
 
 

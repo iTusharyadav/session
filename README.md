@@ -52,8 +52,8 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/InterviewSphere.git
-   cd InterviewSphere
+   git clone https://github.com/iTusharyadav/session.git
+   cd session
    ```
 
 2. **Install dependencies**:
@@ -80,18 +80,6 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ---
 
-## 🛠️ **Contribute**
-
-We welcome contributions! If you want to improve this project or add new features, feel free to fork the repository and create a pull request.
-
-Steps:
-1. Fork the repo
-2. Create a new feature branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new pull request
-
----
 
 ## :loudspeaker: Join Our Community!
 

@@ -83,9 +83,9 @@ This platform leverages the **best tools** available to ensure top-tier performa
 
 ## :loudspeaker: Join Our Community!
 
-- **🔗 GitHub:** [InterviewSphere Repo](https://github.com/yourusername/InterviewSphere)
-- **📣 Twitter:** [@InterviewSphere](https://twitter.com/InterviewSphere)
-- **🌐 Website:** [www.interviewsphere.com](http://www.interviewsphere.com)
+- **🔗 GitHub:** [iTusharyadav](https://github.com/iTusharyadav)
+- **📣 Session:** [session](https://github.com/iTusharyadav/session.git)
+- **🌐 Know More:** [Check out](https://github.com/iTusharyadav/know-more.git)
 
 ---
 

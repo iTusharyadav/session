@@ -26,7 +26,7 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 ## :wrench: Tech Stack
 
-This platform leverages the **best tools** available to ensure top-tier performance and scalability.
+
 
 <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)" />

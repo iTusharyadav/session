@@ -10,6 +10,19 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 ---
 
+## :wrench: Tech Stack
+<p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shadcn-3178C6?style=flat&logo=shadcnui&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-3178C6?style=flat&logo=TailwindCSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=getstream&logoColor=white" />
+    <img src="https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black" />
+
+</p>
+
+---
 ## :world_map: Features
 
 - **📞 Video Calls** - Real-time, high-quality video calls for crisp interviews.
@@ -24,22 +37,11 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 
 ---
 
-## :wrench: Tech Stack
 
 
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Shadcn-3178C6?style=flat&logo=shadcnui&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-3178C6?style=flat&logo=TailwindCSS&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stream-30B4FF?style=flat&logo=getstream&logoColor=white" />
-    <img src="https://img.shields.io/badge/Clerk-50b4fc?style=flat&logo=clerk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Convex-F6B900?style=flat&logo=convex&logoColor=black" />
 
-</p>
 
----
 
 ## :star2: Platform Highlights
 

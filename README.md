@@ -76,5 +76,6 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 ---
 
 <p align="center">
-  Built with 💙
+  "Ideas grow when shared. 🌱💡"
 </p>
+

@@ -70,9 +70,9 @@ Welcome to Session, the groundbreaking platform that makes it easy for interview
 ## :loudspeaker: Join Our Community!
 
 - **🔗 GitHub:** [iTusharyadav](https://github.com/iTusharyadav)
-- **📣 Session:** [Click Here](https://github.com/iTusharyadav/session.git)
+<!-- - **📣 Session:** [Click Here](https://github.com/iTusharyadav/session.git)
 - **🌐 Know More:** [Click Here](https://github.com/iTusharyadav/know-more.git)
-
+-->
 ---
 
 <p align="center">
